@@ -1,2 +1,1 @@
-# learn-angular6
-# learn-angular6
+run `npm install` after cloning this repo.
