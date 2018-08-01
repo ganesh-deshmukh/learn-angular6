@@ -1,5 +1,12 @@
-run `npm install` in terminal inside this folder.
+go to folder assignment4 and run `npm install`
 
 run `npm start`
 
-goto browser and go to url `localhost:4200`.
+![Screenshot] (./src/assets/localhost.png)
+
+
+![microsoft] (./src/assets/microsoft.png)
+
+![java] (./src/assets/java.png)
+
+![python] (./src/assets/python.png)
