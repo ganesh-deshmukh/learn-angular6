@@ -2,7 +2,7 @@ go to folder assignment4 and run `npm install`
 
 run `npm start`
 
-![Screenshot] (localhost.png?raw=true "Title")
+![Screenshot] (./localhost.png?raw=true "Title")
 
 
 ![microsoft] (./assignment4/src/assets/microsoft.png?raw=true "Title")
